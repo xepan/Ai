@@ -4,7 +4,7 @@
     "description": "AI and Business Inteligence for Xavoc ERP / CRM (XEC) Previously known as xEpan",
     "homepage": "https://github.com/xepan/ai",
     "keywords": ["xEpan","SaaS","ERP", "AI", "Business Intelligence"],
-    "license": "AGPL",
+    "license": "proprietary",
     "minimum-stability" : "dev",
     "authors": [
         {
