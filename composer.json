@@ -1,0 +1,23 @@
+{
+    "name": "xepan/ai",
+    "type": "library",
+    "description": "AI and Business Inteligence for Xavoc ERP / CRM (XEC) Previously known as xEpan",
+    "homepage": "https://github.com/xepan/ai",
+    "keywords": ["xEpan","SaaS","ERP", "AI", "Business Intelligence"],
+    "license": "AGPL",
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "Xavoc Technocrats Pvt. Ltd.",
+            "email": "info@xavoc.com"
+        }
+    ],
+    "source": {
+        "url": "https://github.com/xepan/ai.git",
+        "type": "git",
+        "reference": "origin/master"
+    },
+    "require": {
+        "xepan/base": "dev-master"
+    }
+}
