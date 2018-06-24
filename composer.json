@@ -18,6 +18,6 @@
         "reference": "origin/master"
     },
     "require": {
-        "xepan/base": "dev-master"
+        "php": ">=7.0"
     }
 }
